@@ -7,6 +7,8 @@
 
 ## Output
 
+- appear in terminal
+
 ```
 PHP 7.1.9 (cli) (built: Oct  2 2017 20:51:54) ( NTS )
 Copyright (c) 1997-2017 The PHP Group

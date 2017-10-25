@@ -7,6 +7,9 @@
 
 ## Output
 
+- open in browser `http://localhost:8000` (web)
+- appear in terminal
+
 ```
 Server running. CTRL+C to terminate.
 ```
