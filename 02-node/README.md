@@ -13,3 +13,5 @@
 ```
 Server running. CTRL+C to terminate.
 ```
+
+![](https://raw.githubusercontent.com/trainit/2017-10-25-docker-meetup/master/02-node/screen1.png)
