@@ -1,0 +1,8 @@
+FROM alpine:3.6
+
+MAINTAINER Milan Felix Sulc <sulcmil@gmail.com>
+
+RUN apk update
+RUN apk add php7
+
+CMD php -v
