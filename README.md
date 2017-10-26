@@ -8,4 +8,8 @@
 
 ## Authors
 
-**Milan Felix Šulc** / rkfelix@gmail.com
+**Milan Felix Šulc** / rkfelix@gmail.com / [f3l1x.io](https://f3l1x.io)
+
+## Presentation
+
+https://slides.com/f3l1x/2017-10-26-docker-meetup/live#/
