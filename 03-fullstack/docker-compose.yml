@@ -29,6 +29,3 @@ services:
       image: dockette/adminer:dg
       ports:
         - 9000:80
-
-volumes:
-  data-volume:
