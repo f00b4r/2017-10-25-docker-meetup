@@ -2,8 +2,8 @@
 
 ## How-to
 
-- `docker-composer build`
-- `docker-composer up -d`
+- `docker-compose build`
+- `docker-compose up -d`
 
 ## Output
 
